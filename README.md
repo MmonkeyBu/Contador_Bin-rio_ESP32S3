@@ -6,3 +6,5 @@ Botão A: a cada acionamento, deve incrementar o valor do contador conforme a un
 
 
 Botão B: alterna a unidade de incremento entre +1 e +2 a cada acionamento.
+
+link no wokwi: https://wokwi.com/projects/460474610900141057
